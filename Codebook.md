@@ -10,6 +10,18 @@ Each row contains data for 66 variables, each one being the average of the raw d
 Subject.Id - Number between 1 and 30 representing the person who has the data
 Activity.Name - It can be one of these values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
+The data was averaged based on subject and activity group.
+Subject column is numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
+
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
+All the variables estimated for mean and standard deviation were kept.
+
 ## Variables
 
 There are a lot of variables each one measuring one kind of data. They are all listed bellow.
