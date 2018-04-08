@@ -18,7 +18,7 @@ The variable in the data Y indicates activity type the subjects performed during
 5. From the data set in step 4, creates a second, 
 independent tidy data set with the average of each variable for each activity and each subject.
 
-## The final submission
+## The final produce
 
 The new generated dataset contained variables calculated based on the mean and standard deviation.
 Each row of the dataset is an average of each activity type for all subjects.
